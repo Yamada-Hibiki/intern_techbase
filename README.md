@@ -1,5 +1,5 @@
 # intern_techbase
-# Le background
+## Le background
 J'ai effectué un stage de 4 mois au Japon dans le machine learning chez Tech-Base. 
 ## L'objectif
 L'objectif de ce programme de traitement d'image, est l'identification automatique des 8 légumes(avocado, apple, broccoli, cabbage, pepper, pineapple, potato, tomato)
