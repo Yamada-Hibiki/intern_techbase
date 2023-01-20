@@ -9,4 +9,4 @@ Python, Tensorflow, Matplotlib, réseaux de neurones
 ## Le résultat
 Final accuracy : 0.89.
 Il se trouve que le système a du mal à distinguer entre la racine de broccoli et la peau d'avocat. J'ai augmenté le nombre de fois d'apprentissage pour chaque couche 
-mais cela a baissé le "accuracy" en global. Ceci était pareil pour les pommes et les tomates.
+mais cela a baissé le "accuracy" global. J'ai rencontré le même problème pour les pommes et les tomates.
