@@ -2,7 +2,7 @@
 ## Le background
 J'ai effectué un stage de 4 mois en 2022 au Japon dans le machine learning chez Tech-Base. 
 ## L'objectif
-L'objectif de ce programme de traitement d'image, c'est de povoir identifier les 8 légumes (avocado, apple, broccoli, cabbage, pepper, pineapple, potato, tomato). 
+L'objectif de ce programme de traitement d'image, c'est de povoir identifier les légumes (avocado, apple, broccoli, cabbage, pepper, pineapple, potato, tomato). 
 En mettant en place ce système à la caisse, les clients pourront finir l'addition en moins de temps.
 ## Techniques utilisées
 Python, Tensorflow, Matplotlib, réseaux de neurones
